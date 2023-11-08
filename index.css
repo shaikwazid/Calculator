@@ -1,0 +1,61 @@
+
+body{
+ background-image: url("background.jpg");
+ background-repeat: no-repeat;
+
+}
+
+.owncontainer{
+    padding: 50px;
+    margin: 0 auto;
+}
+
+.input{
+    
+    width: 260px;
+    height: 50px;
+    background-color: whitesmoke;
+    color: blue;
+    font-size: 30px;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    border-radius: 20px;
+   
+ 
+}
+
+.fspan{
+
+    padding: 19px;
+    width: 125px;
+
+}
+
+.firstgrid{
+    display: grid;
+    grid-template-rows: 40px 40px 40px 40px 40px;
+    row-gap: 35px;
+    margin-left: 5px;
+}
+
+
+.firstspan{
+   
+    margin: 5px;
+    padding: 20px;
+    width: 50px;
+    
+
+
+    
+}
+
+.secondspan{
+    padding: 20px;
+    width: 50px;
+    margin: 5px;
+
+}
+
+
